@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/0b2271ce-e32b-4329-84b0-9b1582c0604e)
+![Image](https://github.com/user-attachments/assets/31749858-b718-4dd2-b0c8-d72dfbb40a0b)
 <h3>👨‍💻 About Me</h3>
 👋 Hi there! I’m a passionate Full-Stack MERN Developer and a final-year Computer Science student. Focused on building impactful web applications and constantly improving my skills.
 

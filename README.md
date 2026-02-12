@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/31749858-b718-4dd2-b0c8-d72dfbb40a0b)
 <h3>👨‍💻 About Me</h3>
-👋 Hi there! I’m a passionate Full-Stack MERN Developer and a final-year Computer Science student. Focused on building impactful web applications and constantly improving my skills.
+👋 Hi there! I’m a passionate Full-Stack MERN Developer and a completed my BSc in Computer Science & Engineering, focused on building impactful web applications and constantly improving my skills.
 
 
 🛠️ **Tech Stack:**  
@@ -30,10 +30,10 @@ React • Next.js • Node.js • Express.js • MongoDB • Tailwind CSS • Pr
 
 ---
 
-🌐 **Portfolio:** [Visit my Portfolio😊](https://my-portfolio-three-iota-17.vercel.app)  
-📄 **Resume:** [View My Resume🗒️](https://your-resume-link.com)  
+🌐 **Portfolio:** [Visit my Portfolio😊](rtfolio-frontend-orpin-six.vercel.app)  
+📄 **Resume:** [View My Resume🗒️](https://drive.google.com/file/d/1_s6Zp0kFN52WYaCGEMPnC6pEQQvWgqn4/view?usp=drive)  
 📫 **Reach Me At:** sakibprodhan2003@gmail.com  
-🔗 **LinkedIn:** [visit my linkedIn](https://www.linkedin.com/in/sakib-prodhan-077598315/)
+🔗 **LinkedIn:** [visit my linkedIn](https://www.linkedin.com/in/sakibprodhan00/)
 
 
 

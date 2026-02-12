@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/31749858-b718-4dd2-b0c8-d72dfbb40a0b)
 <h3>👨‍💻 About Me</h3>
-👋 Hi there! I’m a passionate Full-Stack MERN Developer and a completed my BSc in Computer Science & Engineering, focused on building impactful web applications and constantly improving my skills.
+👋 Hi there! I’m a passionate Full-Stack MERN Developer and completed my BSc in Computer Science & Engineering, focused on building impactful web applications and constantly improving my skills.
 
 
 🛠️ **Tech Stack:**  
